@@ -1,0 +1,4 @@
+host "$(ipconfig getifaddr en0)" 
+
+## Thanks to the previous question and the reverse DNS find the name of your host
+## should be like -- 19.5.11.10.in-addr.arpa domain name pointer c1r5p19.hive.fi

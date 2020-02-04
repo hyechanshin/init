@@ -1,0 +1,3 @@
+sudo systemctl status sshd
+## Name the command that determines the state of the SSH service.
+## https://www.2daygeek.com/start-stop-restart-enable-reload-openssh-server-service-in-linux/

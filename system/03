@@ -1,0 +1,4 @@
+/etc/hostname
+
+## What file has to be modified to make it permanent?
+## Search for system configuration folder of any Unix system, then for hostname.

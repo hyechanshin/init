@@ -1,0 +1,4 @@
+whois slash16.org | grep 'Name Server:' | awk '{print $3}'
+## Find the provider of slash16.org
+## First nslookup slash16.org then whois 13.33.242.215
+## https://www.hostinger.com/tutorials/how-to-check-nameservers

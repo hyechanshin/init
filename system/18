@@ -1,0 +1,2 @@
+sudo systemctl stop sshd
+## Find the command that kills ssh service

@@ -1,0 +1,3 @@
+dpkg -l
+## Find the command that list all packages
+## https://askubuntu.com/questions/17823/how-to-list-all-installed-packages

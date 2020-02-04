@@ -1,0 +1,3 @@
+pkill tail
+## Find the command that kills the background command’s process
+## tail - output the last part of files - man tail , pkill - killing a process using process name
